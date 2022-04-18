@@ -1,5 +1,5 @@
-0x10.c - printf
-DESCRIPTION
+.TH man "0x10.c - printf"
+.SH DESCRIPTION
 This is the first team project in the ALXSE - Holberton program.
 _printf replicates the C standard library printf() function.
 
